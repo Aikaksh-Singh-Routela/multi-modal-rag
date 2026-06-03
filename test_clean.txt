@@ -1,0 +1,1 @@
+This is a test document about artificial intelligence. RAG systems combine retrieval with generation. Multi-modal AI can process images, audio, and text together.

@@ -1,0 +1,13 @@
+flask==3.0.0
+flask-cors==4.0.0
+groq==0.37.1
+sentence-transformers==3.4.1
+chromadb==0.5.23
+numpy==1.26.4
+pypdf2==3.0.0
+pdfplumber==0.11.4
+pillow==10.4.0
+transformers==4.48.0
+torch==2.5.1
+gunicorn==21.2.0
+huggingface-hub==0.26.0
