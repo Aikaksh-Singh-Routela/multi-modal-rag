@@ -24,3 +24,19 @@ Unlike traditional RAG systems that only handle text, this system can understand
 | **Vector Storage** | ChromaDB | Persistent vector database with cosine similarity |
 | **LLM Integration** | Groq Llama 3.1 | Fast inference for natural language answers |
 | **REST API** | Flask | Upload files, query, and get responses |
+
+## 📦 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/Aikaksh-Singh-Routela/multi-modal-rag.git
+cd multi-modal-rag
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Set your API key
+export OPENAI_API_KEY="your-groq-api-key"
+
+# Run the API
+python multi_modal_rag.py
