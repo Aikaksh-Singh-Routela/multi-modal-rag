@@ -40,3 +40,19 @@ export OPENAI_API_KEY="your-groq-api-key"
 
 # Run the API
 python multi_modal_rag.py
+
+## 📦 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/Aikaksh-Singh-Routela/multi-modal-rag.git
+cd multi-modal-rag
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Set your API key
+export OPENAI_API_KEY="your-groq-api-key"
+
+# Run the API
+python multi_modal_rag.py
