@@ -40,3 +40,4 @@ export OPENAI_API_KEY="your-groq-api-key"
 
 # Run the API
 python multi_modal_rag.py
+```
